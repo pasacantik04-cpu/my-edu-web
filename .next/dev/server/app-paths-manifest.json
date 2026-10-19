@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/penilaian/page": "app/admin/penilaian/page.js",
+  "/kuis/quizizz/page": "app/kuis/quizizz/page.js",
+  "/materi/[id]/page": "app/materi/[id]/page.js",
+  "/materi/page": "app/materi/page.js",
+  "/page": "app/page.js",
+  "/ujian-tertulis/page": "app/ujian-tertulis/page.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Asus/OneDrive/my-edu-web/app/materi/page.tsx"],"sourcesContent":["<div className=\"mt-10 pt-6 border-t flex justify-between items-center\">\r\n          <Link href=\"/materi\" className=\"text-gray-600 hover:text-purple-600 text-sm font-medium\">\r\n            ← Modul Lainnya\r\n          </Link>\r\n          <Link href=\"/ujian-tertulis\" className=\"bg-purple-600 text-white font-medium px-6 py-2.5 rounded-xl text-sm hover:bg-purple-700 transition\">\r\n            Kerjakan Soal Ujian Tertulis ✍️\r\n          </Link>\r\n        </div>"],"names":["className","Link","href"],"mappings":";cAAA,QAAC;IAAIA,WAAU;;sBACL,QAACC;YAAKC,MAAK;YAAUF,WAAU;sBAA0D;;;;;;sBAGzF,QAACC;YAAKC,MAAK;YAAkBF,WAAU;sBAAqG"}}]
+}
